@@ -15,8 +15,6 @@ TEMPLATE = '''
     <script src="https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js" integrity="sha384-XlyRxqW2TTF2gFC0VpBI8OqnCTsZOdgrhBFikxYD4hEu68QdNQ64kiej07hCAiJq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js" integrity="sha384-/Uy+8NNvYJjG164REYQP/RnqVcrnsFTtnoCJcLg/tVBKaHUaovtr+ZJgKQKHGAPW" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/addons/p5.sound.min.js" integrity="sha512-WzkwpdWEMAY/W8WvP9KS2/VI6zkgejR4/KTxTl4qHx0utqeyVE0JY+S1DlMuxDChC7x0oXtk/ESji6a0lP/Tdg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
     <style>
         canvas {
             border: 1px solid black;
